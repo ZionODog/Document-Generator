@@ -28,14 +28,14 @@ O grande diferencial é a **Esteira de Aprovação Inteligente**: Assim que o do
 _Uma interface limpa e intuitiva para garantir que todos os dados necessários sejam preenchidos._
 
 <div align="center">
-  <img src="./assets/page.png" alt="Interface do Gerador de PSG" width="700">
+  <img src="./psg-frontend/src/assets/page.png" alt="Interface do Gerador de PSG" width="700">
 </div>
 
 ### 🔔 Fluxo de Aprovação (Teams Integration)
 _O "pulo do gato": O aprovador recebe o arquivo e os botões de ação diretamente no Microsoft Teams._
 
 <div align="center">
-  <img src="./assets/notificacao.png" alt="Notificação de Aprovação no Teams" width="600">
+  <img src="./psg-frontend/src/assets//notificacao.png" alt="Notificação de Aprovação no Teams" width="600">
 </div>
 
 ---
