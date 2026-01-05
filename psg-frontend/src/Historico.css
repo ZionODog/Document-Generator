@@ -1,0 +1,54 @@
+.historico-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.documentos-lista {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+}
+
+.documento-item {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 15px;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f9f9f9;
+    text-align: left;
+}
+
+.documento-item p {
+    margin: 5px 0;
+}
+
+.error-message {
+    color: red;
+}
+
+/* Estilo do botão de download */
+.documento-item button {
+    margin-top: 10px;
+    padding: 8px 15px;
+    background-color: #F52727;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.documento-item button:hover {
+    background-color: #d11c1c;
+}
+
+h2, p, h3 {
+    color: black
+}
+
+.arquivo-filename {
+    color: black
+}
